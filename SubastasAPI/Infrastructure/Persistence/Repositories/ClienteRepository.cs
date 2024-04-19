@@ -1,4 +1,4 @@
-using Domain.Clientes;
+/*using Domain.Clientes;
 
 namespace Infrastructure.Persistence.Repositories;
 
@@ -17,4 +17,4 @@ public class ClienteRepository : IClienteRepository
     public async Task<bool> ExistsAsync(ClienteId id) => await _context.Clientes.AnyAsync(cliente => cliente.Id == id);
     public async Task<Cliente?> GetByIdAsync(ClienteId id) => await _context.Clientes.SingleOrDefaultAsync(c => c.Id == id);
     public async Task<List<Cliente>> GetAll() => await _context.Clientes.ToListAsync();
-}
+}*/

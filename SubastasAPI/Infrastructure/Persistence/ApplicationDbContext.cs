@@ -1,6 +1,5 @@
 using Application.Data;
 using Domain.Productos;
-using Domain.Clientes;
 using Domain.Primitives;
 
 namespace Infrastructure.Persistence;
@@ -15,7 +14,6 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext, IUnitOfWor
     }
 
     public DbSet<Producto> Productos { get; set; }
-    public DbSet<Cliente> Clientes { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
