@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infrastructure.Persistence.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240304183204_InitialMigration")]
-    partial class InitialMigration
+    [Migration("20240419044908_InitialMigrationv2")]
+    partial class InitialMigrationv2
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -30,6 +30,10 @@ namespace Infrastructure.Persistence.Migrations
                     b.Property<Guid>("Id")
                         .HasColumnType("uniqueidentifier");
 
+                    b.Property<string>("Año")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Descripcion")
                         .IsRequired()
                         .HasMaxLength(250)
@@ -40,8 +44,8 @@ namespace Infrastructure.Persistence.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
-                    b.Property<double>("Precio")
-                        .HasColumnType("float");
+                    b.Property<decimal>("Precio")
+                        .HasColumnType("decimal(18,2)");
 
                     b.HasKey("Id");
 

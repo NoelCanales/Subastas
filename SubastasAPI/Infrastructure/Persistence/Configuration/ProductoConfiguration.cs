@@ -20,6 +20,8 @@ public class ProductoConfiguration : IEntityTypeConfiguration<Producto>
 
         builder.Property(c => c.Descripcion).HasMaxLength(250);
 
+        builder.Property(c => c.Año);
+
         builder.Property(c => c.Precio);
 
     }
