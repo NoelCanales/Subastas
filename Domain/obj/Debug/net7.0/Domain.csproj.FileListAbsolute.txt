@@ -1,0 +1,48 @@
+C:\Users\Ludwin Portillo\Desktop\Subastas\SubastasAPI\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Ludwin Portillo\Desktop\Subastas\SubastasAPI\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Ludwin Portillo\Desktop\Subastas\SubastasAPI\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Ludwin Portillo\Desktop\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ludwin Portillo\Desktop\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Ludwin Portillo\Desktop\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Ludwin Portillo\Desktop\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ludwin Portillo\Desktop\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Ludwin Portillo\Desktop\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Ludwin Portillo\Desktop\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Ludwin Portillo\Desktop\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Ludwin Portillo\Desktop\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Hernan\Downloads\Subastas\SubastasAPI\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Hernan\Downloads\Subastas\SubastasAPI\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Hernan\Downloads\Subastas\SubastasAPI\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Hernan\Downloads\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Hernan\Downloads\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Downloads\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Hernan\Downloads\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Hernan\Downloads\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Downloads\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Hernan\Downloads\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Hernan\Downloads\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Hernan\Downloads\Subastas\SubastasAPI\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\ERICK69\Downloads\Subastas-Desarrollo\SubastasAPI\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\ERICK69\Downloads\Subastas-Desarrollo\SubastasAPI\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\ERICK69\Downloads\Subastas-Desarrollo\SubastasAPI\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\ERICK69\Downloads\Subastas-Desarrollo\SubastasAPI\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\ERICK69\Downloads\Subastas-Desarrollo\SubastasAPI\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK69\Downloads\Subastas-Desarrollo\SubastasAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ERICK69\Downloads\Subastas-Desarrollo\SubastasAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\ERICK69\Downloads\Subastas-Desarrollo\SubastasAPI\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ERICK69\Downloads\Subastas-Desarrollo\SubastasAPI\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\ERICK69\Downloads\Subastas-Desarrollo\SubastasAPI\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\ERICK69\Downloads\Subastas-Desarrollo\SubastasAPI\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\ERICK69\Downloads\Subastas-Desarrollo\SubastasAPI\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\ERICK69\Desktop\SubastasAPI\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\ERICK69\Desktop\SubastasAPI\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\ERICK69\Desktop\SubastasAPI\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\ERICK69\Desktop\SubastasAPI\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\ERICK69\Desktop\SubastasAPI\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK69\Desktop\SubastasAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ERICK69\Desktop\SubastasAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\ERICK69\Desktop\SubastasAPI\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ERICK69\Desktop\SubastasAPI\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\ERICK69\Desktop\SubastasAPI\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\ERICK69\Desktop\SubastasAPI\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\ERICK69\Desktop\SubastasAPI\Domain\obj\Debug\net7.0\ref\Domain.dll

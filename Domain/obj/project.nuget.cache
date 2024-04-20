@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KyqwTP5mDuCiFTZ4Kj191FK6J+kpuguHdOxKW3NRB2ghlb2lmOPZseevLKPrJIFSR+s8h7QcH+2/dVuTdr0glg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ERICK69\\Desktop\\SubastasAPI\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ERICK69\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
+    "C:\\Users\\ERICK69\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\ERICK69\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ERICK69\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
