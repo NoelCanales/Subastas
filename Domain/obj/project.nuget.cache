@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "g5ECMuJNI3Jy9gezYchHFXhWltXxodVbNZrJR8dBuvMNWN5Fw8D0YSQxGghj3RRq39+puIcf8B9w2GmbhpUtQg==",
+  "dgSpecHash": "sXgkolwc7jCcqZUUHKlQWYwGaWD7zNyL7w0BmZWDcOMmSw4xbcvoCQdbpECorvyOxiZ4GAZWk1w9tfxU03/8TQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hernan\\Downloads\\Subastas\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\ERICK69\\Downloads\\Subastas\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Hernan\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
-    "C:\\Users\\Hernan\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
-    "C:\\Users\\Hernan\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\Hernan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\ERICK69\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
+    "C:\\Users\\ERICK69\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\ERICK69\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ERICK69\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

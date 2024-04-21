@@ -3,6 +3,7 @@ using Domain.Productos;
 using Domain.Primitives;
 using Domain.Usuarios;
 using Domain.Subastas;
+using Domain.PujaSubastas;
 
 namespace Infrastructure.Persistence;
 
@@ -10,7 +11,7 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext, IUnitOfWor
 {
     private readonly IPublisher _publisher;
 
-    public ApplicationDbContext(DbContextOptions options, IPublisher publisher) : base (options)
+    public ApplicationDbContext(DbContextOptions options, IPublisher publisher) : base(options)
     {
         _publisher = publisher ?? throw new ArgumentNullException(nameof(publisher));
     }
@@ -18,9 +19,11 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext, IUnitOfWor
     public DbSet<Producto> Productos { get; set; }
     public DbSet<Usuario> Usuarios { get; set; }
     public DbSet<Subasta> Subastas { get; set; }
+    public DbSet<PujaSubasta> PujaSubastas { get; set; }
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-       modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
+        modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
     }
 
     public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = new CancellationToken())

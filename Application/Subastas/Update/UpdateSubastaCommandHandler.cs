@@ -20,7 +20,9 @@ internal sealed class UpdateSubastaCommandHandler : IRequestHandler<UpdateSubast
             return Error.NotFound("subasta.NotFound", "The subasta with the provide Id was not found.");
         }
 
-        Subasta subasta = Subasta.UpdateSubasta(command.Id, command.ProductoId,
+        Subasta subasta = Subasta.UpdateSubasta(
+            command.Id, 
+            command.ProductoId, 
             command.FechaInicio,
             command.FechaFinal,
             command.Estado);

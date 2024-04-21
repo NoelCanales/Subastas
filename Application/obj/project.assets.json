@@ -746,24 +746,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hernan\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ERICK69\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hernan\\Downloads\\Subastas\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\ERICK69\\Downloads\\Subastas\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Hernan\\Downloads\\Subastas\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\Hernan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hernan\\Downloads\\Subastas\\Application\\obj\\",
+      "projectPath": "C:\\Users\\ERICK69\\Downloads\\Subastas\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\ERICK69\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ERICK69\\Downloads\\Subastas\\Application\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Hernan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ERICK69\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -777,8 +772,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Hernan\\Downloads\\Subastas\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Hernan\\Downloads\\Subastas\\Domain\\Domain.csproj"
+            "C:\\Users\\ERICK69\\Downloads\\Subastas\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\ERICK69\\Downloads\\Subastas\\Domain\\Domain.csproj"
             }
           }
         }
@@ -787,6 +782,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -830,7 +830,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.118\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -49,6 +49,28 @@ namespace Infrastructure.Persistence.Migrations
                     b.ToTable("Productos", (string)null);
                 });
 
+            modelBuilder.Entity("Domain.PujaSubastas.PujaSubasta", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<int>("CantidadPuja")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("Fecha")
+                        .HasColumnType("datetime2");
+
+                    b.Property<Guid>("SubastaId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("UsuarioId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("PujaSubastas", (string)null);
+                });
+
             modelBuilder.Entity("Domain.Subastas.Subasta", b =>
                 {
                     b.Property<Guid>("Id")

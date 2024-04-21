@@ -15,16 +15,17 @@ internal sealed class GetSubastaByIdQueryHandler : IRequestHandler<GetSubastaByI
 
     public async Task<ErrorOr<SubastaResponse>> Handle(GetSubastaByIdQuery query, CancellationToken cancellationToken)
     {
-        if (await _subastaRepository.GetByIdAsync(new SubastaId(query.Id)) is not Subasta producto)
+        if (await _subastaRepository.GetByIdAsync(new SubastaId(query.Id)) is not Subasta subasta)
         {
             return Error.NotFound("Subasta.NotFound", "The subasta with the provide Id was not found.");
         }
 
         return new SubastaResponse(
-            producto.Id.Value, 
-            producto.ProductoId, 
-            producto.FechaInicio, 
-            producto.FechaFinal,
-            producto.Estado);
+            subasta.Id.Value, 
+            subasta.ProductoId, 
+            subasta.FechaInicio, 
+            subasta.FechaFinal,
+            subasta.Estado);  
+        
     }
 }
