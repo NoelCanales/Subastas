@@ -46,3 +46,15 @@ C:\Users\ERICK69\Desktop\SubastasAPI\Domain\obj\Debug\net7.0\Domain.dll
 C:\Users\ERICK69\Desktop\SubastasAPI\Domain\obj\Debug\net7.0\refint\Domain.dll
 C:\Users\ERICK69\Desktop\SubastasAPI\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Users\ERICK69\Desktop\SubastasAPI\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Hernan\Downloads\Subastas\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Hernan\Downloads\Subastas\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Hernan\Downloads\Subastas\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Hernan\Downloads\Subastas\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Hernan\Downloads\Subastas\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Downloads\Subastas\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Hernan\Downloads\Subastas\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Hernan\Downloads\Subastas\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Downloads\Subastas\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Hernan\Downloads\Subastas\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Hernan\Downloads\Subastas\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Hernan\Downloads\Subastas\Domain\obj\Debug\net7.0\ref\Domain.dll

@@ -2,6 +2,7 @@ using Application.Data;
 using Domain.Productos;
 using Domain.Primitives;
 using Domain.Usuarios;
+using Domain.Subastas;
 
 namespace Infrastructure.Persistence;
 
@@ -16,6 +17,7 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext, IUnitOfWor
 
     public DbSet<Producto> Productos { get; set; }
     public DbSet<Usuario> Usuarios { get; set; }
+    public DbSet<Subasta> Subastas { get; set; }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
        modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);

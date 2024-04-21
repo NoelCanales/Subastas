@@ -1,6 +1,7 @@
 using Application.Data;
 using Domain.Productos;
 using Domain.Usuarios;
+using Domain.Subastas;
 using Domain.Primitives;
 using Infrastructure.Persistence;
 using Infrastructure.Persistence.Repositories;
@@ -31,6 +32,8 @@ public static class DependencyInjection
         services.AddScoped<IProductoRepository, ProductoRepository>();
 
         services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+
+        services.AddScoped<ISubastaRepository, SubastaRepository>();
 
 
         return services;
